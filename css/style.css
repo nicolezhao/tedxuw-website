@@ -3182,6 +3182,10 @@ img, video {
 .pt-150-b-110-cont{ padding-top:150px; padding-bottom:110px;}
 .pt-160-b-120-cont{ padding-top:160px; padding-bottom:120px;}
 
+.custom-about{
+  padding-bottom:0px;
+}
+
 @media only screen and (max-width : 1024px) {
   .p-140-cont{ padding-top:120px; padding-bottom:120px;}
   .fes2-main-text-cont {
@@ -6748,7 +6752,7 @@ header.affix  .logo-2, .header.affix.no-transparent .logo-2 {
 	transition: all .4s ease 0s;
 }
 .logo-img {
-  height: 42px;
+  height: 35px;
 }
 header .logo .logo-img {
 	transition: all .4s ease 0s;
